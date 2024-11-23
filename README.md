@@ -1,0 +1,1 @@
+YouTube: [มาลองทำ Search ด้วย Elasticsearch กัน](https://www.youtube.com/watch?v=ECnEzu9E7Wg&t=2346s&ab_channel=mikelopster)
